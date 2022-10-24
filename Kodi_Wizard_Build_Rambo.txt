@@ -1,0 +1,19 @@
+id="plugin.program.Rambo"
+version="2.0.7"
+zip="https://" 
+
+name="Rambo Build"
+version="1.0.0"
+url="https://"
+minor="http://"
+gui="http://"
+kodi="19.4"
+theme="http://"
+icon="https://"
+fanart="https://"
+preview="http://"
+adult="no"
+info="http://"
+description="Rambo Build V1.0.0"
+
+
